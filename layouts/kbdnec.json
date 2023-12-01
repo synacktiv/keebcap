@@ -1,0 +1,2143 @@
+{
+    "deadkeys": [],
+    "flag_altgr": 0,
+    "flag_ltr": 0,
+    "flag_shiftlock": 0,
+    "kbd_name": "kbdnec",
+    "kbd_subtype": 3330,
+    "kbd_type": 7,
+    "key_names": [
+        {
+            "name": "Esc",
+            "sc": 1
+        },
+        {
+            "name": "Backspace",
+            "sc": 14
+        },
+        {
+            "name": "Tab",
+            "sc": 15
+        },
+        {
+            "name": "Enter",
+            "sc": 28
+        },
+        {
+            "name": "Ctrl",
+            "sc": 29
+        },
+        {
+            "name": "半角/全角",
+            "sc": 41
+        },
+        {
+            "name": "Shift",
+            "sc": 42
+        },
+        {
+            "name": "Right Shift",
+            "sc": 54
+        },
+        {
+            "name": "Num *",
+            "sc": 55
+        },
+        {
+            "name": "Alt",
+            "sc": 56
+        },
+        {
+            "name": "Space",
+            "sc": 57
+        },
+        {
+            "name": "Caps Lock",
+            "sc": 58
+        },
+        {
+            "name": "F1",
+            "sc": 59
+        },
+        {
+            "name": "F2",
+            "sc": 60
+        },
+        {
+            "name": "F3",
+            "sc": 61
+        },
+        {
+            "name": "F4",
+            "sc": 62
+        },
+        {
+            "name": "F5",
+            "sc": 63
+        },
+        {
+            "name": "F6",
+            "sc": 64
+        },
+        {
+            "name": "F7",
+            "sc": 65
+        },
+        {
+            "name": "F8",
+            "sc": 66
+        },
+        {
+            "name": "F9",
+            "sc": 67
+        },
+        {
+            "name": "F10",
+            "sc": 68
+        },
+        {
+            "name": "Pause",
+            "sc": 69
+        },
+        {
+            "name": "Scroll Lock",
+            "sc": 70
+        },
+        {
+            "name": "Num 7",
+            "sc": 71
+        },
+        {
+            "name": "Num 8",
+            "sc": 72
+        },
+        {
+            "name": "Num 9",
+            "sc": 73
+        },
+        {
+            "name": "Num -",
+            "sc": 74
+        },
+        {
+            "name": "Num 4",
+            "sc": 75
+        },
+        {
+            "name": "Num 5",
+            "sc": 76
+        },
+        {
+            "name": "Num 6",
+            "sc": 77
+        },
+        {
+            "name": "Num +",
+            "sc": 78
+        },
+        {
+            "name": "Num 1",
+            "sc": 79
+        },
+        {
+            "name": "Num 2",
+            "sc": 80
+        },
+        {
+            "name": "Num 3",
+            "sc": 81
+        },
+        {
+            "name": "Num 0",
+            "sc": 82
+        },
+        {
+            "name": "Num Del",
+            "sc": 83
+        },
+        {
+            "name": "Sys Req",
+            "sc": 84
+        },
+        {
+            "name": "F11",
+            "sc": 87
+        },
+        {
+            "name": "F12",
+            "sc": 88
+        },
+        {
+            "name": "Num =",
+            "sc": 89
+        },
+        {
+            "name": "Num ,",
+            "sc": 92
+        },
+        {
+            "name": "F13",
+            "sc": 93
+        },
+        {
+            "name": "F14",
+            "sc": 94
+        },
+        {
+            "name": "F15",
+            "sc": 95
+        },
+        {
+            "name": "ｶﾅ",
+            "sc": 112
+        },
+        {
+            "name": "XFER",
+            "sc": 121
+        },
+        {
+            "name": "NFER",
+            "sc": 123
+        }
+    ],
+    "key_names_dead": [],
+    "key_names_ext": [
+        {
+            "name": "Num Enter",
+            "sc": 28
+        },
+        {
+            "name": "Right Control",
+            "sc": 29
+        },
+        {
+            "name": "Num /",
+            "sc": 53
+        },
+        {
+            "name": "Prnt Scrn",
+            "sc": 55
+        },
+        {
+            "name": "Right Alt",
+            "sc": 56
+        },
+        {
+            "name": "Num Lock",
+            "sc": 69
+        },
+        {
+            "name": "Break",
+            "sc": 70
+        },
+        {
+            "name": "Home",
+            "sc": 71
+        },
+        {
+            "name": "Up",
+            "sc": 72
+        },
+        {
+            "name": "Page Up",
+            "sc": 73
+        },
+        {
+            "name": "Left",
+            "sc": 75
+        },
+        {
+            "name": "Right",
+            "sc": 77
+        },
+        {
+            "name": "End",
+            "sc": 79
+        },
+        {
+            "name": "Down",
+            "sc": 80
+        },
+        {
+            "name": "Page Down",
+            "sc": 81
+        },
+        {
+            "name": "Insert",
+            "sc": 82
+        },
+        {
+            "name": "Delete",
+            "sc": 83
+        },
+        {
+            "name": "Left Windows",
+            "sc": 91
+        },
+        {
+            "name": "Right Windows",
+            "sc": 92
+        },
+        {
+            "name": "Application",
+            "sc": 93
+        }
+    ],
+    "ligatures": [],
+    "modifiers": [
+        {
+            "modbits": 1,
+            "vk": 16,
+            "vkn": "VK_SHIFT"
+        },
+        {
+            "modbits": 2,
+            "vk": 17,
+            "vkn": "VK_CONTROL"
+        },
+        {
+            "modbits": 4,
+            "vk": 18,
+            "vkn": "VK_MENU"
+        },
+        {
+            "modbits": 8,
+            "vk": 21,
+            "vkn": "VK_HANGUL"
+        }
+    ],
+    "shiftstates": [
+        0,
+        1,
+        4,
+        6,
+        15,
+        15,
+        15,
+        15,
+        2,
+        3,
+        5,
+        7
+    ],
+    "vk_to_wchars": [
+        {
+            "index": 1,
+            "num_mods": 6,
+            "table": [
+                {
+                    "attrs": 0,
+                    "vk": 8,
+                    "vkn": "VK_BACK",
+                    "wch": [
+                        8,
+                        8,
+                        8,
+                        8,
+                        127,
+                        127
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 3,
+                    "vkn": "VK_CANCEL",
+                    "wch": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 27,
+                    "vkn": "VK_ESCAPE",
+                    "wch": [
+                        27,
+                        27,
+                        27,
+                        27,
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 192,
+                    "vkn": "VK_OEM_3",
+                    "wch": [
+                        64,
+                        126,
+                        65438,
+                        65438,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 219,
+                    "vkn": "VK_OEM_4",
+                    "wch": [
+                        91,
+                        123,
+                        65439,
+                        65378,
+                        27,
+                        27
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 220,
+                    "vkn": "VK_OEM_5",
+                    "wch": [
+                        92,
+                        124,
+                        65392,
+                        65392,
+                        28,
+                        28
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 221,
+                    "vkn": "VK_OEM_6",
+                    "wch": [
+                        93,
+                        125,
+                        65425,
+                        65379,
+                        29,
+                        29
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 222,
+                    "vkn": "VK_OEM_7",
+                    "wch": [
+                        94,
+                        96,
+                        65421,
+                        65421,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 223,
+                    "vkn": "VK_OEM_8",
+                    "wch": [
+                        61440,
+                        95,
+                        65435,
+                        65435,
+                        31,
+                        31
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 13,
+                    "vkn": "VK_RETURN",
+                    "wch": [
+                        13,
+                        13,
+                        13,
+                        13,
+                        10,
+                        10
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 32,
+                    "vkn": "VK_SPACE",
+                    "wch": [
+                        32,
+                        32,
+                        32,
+                        32,
+                        32,
+                        32
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "num_mods": 8,
+            "table": [
+                {
+                    "attrs": 8,
+                    "vk": 50,
+                    "vkn": "VK_2",
+                    "wch": [
+                        50,
+                        34,
+                        65420,
+                        65420,
+                        61440,
+                        61440,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 54,
+                    "vkn": "VK_6",
+                    "wch": [
+                        54,
+                        38,
+                        65397,
+                        65387,
+                        61440,
+                        61440,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 189,
+                    "vkn": "VK_OEM_MINUS",
+                    "wch": [
+                        45,
+                        61,
+                        65422,
+                        65422,
+                        61440,
+                        61440,
+                        31,
+                        31
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "num_mods": 4,
+            "table": [
+                {
+                    "attrs": 8,
+                    "vk": 48,
+                    "vkn": "VK_0",
+                    "wch": [
+                        48,
+                        48,
+                        65436,
+                        65382
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 49,
+                    "vkn": "VK_1",
+                    "wch": [
+                        49,
+                        33,
+                        65415,
+                        65415
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 51,
+                    "vkn": "VK_3",
+                    "wch": [
+                        51,
+                        35,
+                        65393,
+                        65383
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 52,
+                    "vkn": "VK_4",
+                    "wch": [
+                        52,
+                        36,
+                        65395,
+                        65385
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 53,
+                    "vkn": "VK_5",
+                    "wch": [
+                        53,
+                        37,
+                        65396,
+                        65386
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 55,
+                    "vkn": "VK_7",
+                    "wch": [
+                        55,
+                        39,
+                        65428,
+                        65388
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 56,
+                    "vkn": "VK_8",
+                    "wch": [
+                        56,
+                        40,
+                        65429,
+                        65389
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 57,
+                    "vkn": "VK_9",
+                    "wch": [
+                        57,
+                        41,
+                        65430,
+                        65390
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 65,
+                    "vkn": "VK_A",
+                    "wch": [
+                        97,
+                        65,
+                        65409,
+                        65409
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 66,
+                    "vkn": "VK_B",
+                    "wch": [
+                        98,
+                        66,
+                        65402,
+                        65402
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 67,
+                    "vkn": "VK_C",
+                    "wch": [
+                        99,
+                        67,
+                        65407,
+                        65407
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 68,
+                    "vkn": "VK_D",
+                    "wch": [
+                        100,
+                        68,
+                        65404,
+                        65404
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 69,
+                    "vkn": "VK_E",
+                    "wch": [
+                        101,
+                        69,
+                        65394,
+                        65384
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 70,
+                    "vkn": "VK_F",
+                    "wch": [
+                        102,
+                        70,
+                        65418,
+                        65418
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 71,
+                    "vkn": "VK_G",
+                    "wch": [
+                        103,
+                        71,
+                        65399,
+                        65399
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 72,
+                    "vkn": "VK_H",
+                    "wch": [
+                        104,
+                        72,
+                        65400,
+                        65400
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 73,
+                    "vkn": "VK_I",
+                    "wch": [
+                        105,
+                        73,
+                        65414,
+                        65414
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 74,
+                    "vkn": "VK_J",
+                    "wch": [
+                        106,
+                        74,
+                        65423,
+                        65423
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 75,
+                    "vkn": "VK_K",
+                    "wch": [
+                        107,
+                        75,
+                        65417,
+                        65417
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 76,
+                    "vkn": "VK_L",
+                    "wch": [
+                        108,
+                        76,
+                        65432,
+                        65432
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 77,
+                    "vkn": "VK_M",
+                    "wch": [
+                        109,
+                        77,
+                        65427,
+                        65427
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 78,
+                    "vkn": "VK_N",
+                    "wch": [
+                        110,
+                        78,
+                        65424,
+                        65424
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 79,
+                    "vkn": "VK_O",
+                    "wch": [
+                        111,
+                        79,
+                        65431,
+                        65431
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 80,
+                    "vkn": "VK_P",
+                    "wch": [
+                        112,
+                        80,
+                        65406,
+                        65406
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 81,
+                    "vkn": "VK_Q",
+                    "wch": [
+                        113,
+                        81,
+                        65408,
+                        65408
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 82,
+                    "vkn": "VK_R",
+                    "wch": [
+                        114,
+                        82,
+                        65405,
+                        65405
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 83,
+                    "vkn": "VK_S",
+                    "wch": [
+                        115,
+                        83,
+                        65412,
+                        65412
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 84,
+                    "vkn": "VK_T",
+                    "wch": [
+                        116,
+                        84,
+                        65398,
+                        65398
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 85,
+                    "vkn": "VK_U",
+                    "wch": [
+                        117,
+                        85,
+                        65413,
+                        65413
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 86,
+                    "vkn": "VK_V",
+                    "wch": [
+                        118,
+                        86,
+                        65419,
+                        65419
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 87,
+                    "vkn": "VK_W",
+                    "wch": [
+                        119,
+                        87,
+                        65411,
+                        65411
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 88,
+                    "vkn": "VK_X",
+                    "wch": [
+                        120,
+                        88,
+                        65403,
+                        65403
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 89,
+                    "vkn": "VK_Y",
+                    "wch": [
+                        121,
+                        89,
+                        65437,
+                        65437
+                    ]
+                },
+                {
+                    "attrs": 9,
+                    "vk": 90,
+                    "vkn": "VK_Z",
+                    "wch": [
+                        122,
+                        90,
+                        65410,
+                        65391
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 186,
+                    "vkn": "VK_OEM_1",
+                    "wch": [
+                        58,
+                        42,
+                        65401,
+                        65401
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 191,
+                    "vkn": "VK_OEM_2",
+                    "wch": [
+                        47,
+                        63,
+                        65426,
+                        65381
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 188,
+                    "vkn": "VK_OEM_COMMA",
+                    "wch": [
+                        44,
+                        60,
+                        65416,
+                        65380
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 190,
+                    "vkn": "VK_OEM_PERIOD",
+                    "wch": [
+                        46,
+                        62,
+                        65433,
+                        65377
+                    ]
+                },
+                {
+                    "attrs": 8,
+                    "vk": 187,
+                    "vkn": "VK_OEM_PLUS",
+                    "wch": [
+                        59,
+                        43,
+                        65434,
+                        65434
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 9,
+                    "vkn": "VK_TAB",
+                    "wch": [
+                        9,
+                        9,
+                        9,
+                        9
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 107,
+                    "vkn": "VK_ADD",
+                    "wch": [
+                        43,
+                        43,
+                        43,
+                        43
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 110,
+                    "vkn": "VK_DECIMAL",
+                    "wch": [
+                        46,
+                        46,
+                        46,
+                        46
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 111,
+                    "vkn": "VK_DIVIDE",
+                    "wch": [
+                        47,
+                        47,
+                        47,
+                        47
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 106,
+                    "vkn": "VK_MULTIPLY",
+                    "wch": [
+                        42,
+                        42,
+                        42,
+                        42
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 109,
+                    "vkn": "VK_SUBTRACT",
+                    "wch": [
+                        45,
+                        45,
+                        45,
+                        45
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 108,
+                    "vkn": "VK_SEPARATOR",
+                    "wch": [
+                        44,
+                        44,
+                        44,
+                        44
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 146,
+                    "vkn": "VK_OEM_NEC_EQUAL",
+                    "wch": [
+                        61,
+                        61,
+                        61,
+                        61
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "num_mods": 4,
+            "table": [
+                {
+                    "attrs": 0,
+                    "vk": 96,
+                    "vkn": "VK_NUMPAD0",
+                    "wch": [
+                        48,
+                        61440,
+                        48,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 97,
+                    "vkn": "VK_NUMPAD1",
+                    "wch": [
+                        49,
+                        61440,
+                        49,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 98,
+                    "vkn": "VK_NUMPAD2",
+                    "wch": [
+                        50,
+                        61440,
+                        50,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 99,
+                    "vkn": "VK_NUMPAD3",
+                    "wch": [
+                        51,
+                        61440,
+                        51,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 100,
+                    "vkn": "VK_NUMPAD4",
+                    "wch": [
+                        52,
+                        61440,
+                        52,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 101,
+                    "vkn": "VK_NUMPAD5",
+                    "wch": [
+                        53,
+                        61440,
+                        53,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 102,
+                    "vkn": "VK_NUMPAD6",
+                    "wch": [
+                        54,
+                        61440,
+                        54,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 103,
+                    "vkn": "VK_NUMPAD7",
+                    "wch": [
+                        55,
+                        61440,
+                        55,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 104,
+                    "vkn": "VK_NUMPAD8",
+                    "wch": [
+                        56,
+                        61440,
+                        56,
+                        61440
+                    ]
+                },
+                {
+                    "attrs": 0,
+                    "vk": 105,
+                    "vkn": "VK_NUMPAD9",
+                    "wch": [
+                        57,
+                        61440,
+                        57,
+                        61440
+                    ]
+                }
+            ]
+        }
+    ],
+    "vsc_to_vk": [
+        {
+            "flags": [],
+            "sc": 0,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 1,
+            "vk": 27,
+            "vkn": "VK_ESCAPE"
+        },
+        {
+            "flags": [],
+            "sc": 2,
+            "vk": 49,
+            "vkn": "VK_1"
+        },
+        {
+            "flags": [],
+            "sc": 3,
+            "vk": 50,
+            "vkn": "VK_2"
+        },
+        {
+            "flags": [],
+            "sc": 4,
+            "vk": 51,
+            "vkn": "VK_3"
+        },
+        {
+            "flags": [],
+            "sc": 5,
+            "vk": 52,
+            "vkn": "VK_4"
+        },
+        {
+            "flags": [],
+            "sc": 6,
+            "vk": 53,
+            "vkn": "VK_5"
+        },
+        {
+            "flags": [],
+            "sc": 7,
+            "vk": 54,
+            "vkn": "VK_6"
+        },
+        {
+            "flags": [],
+            "sc": 8,
+            "vk": 55,
+            "vkn": "VK_7"
+        },
+        {
+            "flags": [],
+            "sc": 9,
+            "vk": 56,
+            "vkn": "VK_8"
+        },
+        {
+            "flags": [],
+            "sc": 10,
+            "vk": 57,
+            "vkn": "VK_9"
+        },
+        {
+            "flags": [],
+            "sc": 11,
+            "vk": 48,
+            "vkn": "VK_0"
+        },
+        {
+            "flags": [],
+            "sc": 12,
+            "vk": 189,
+            "vkn": "VK_OEM_MINUS"
+        },
+        {
+            "flags": [],
+            "sc": 13,
+            "vk": 222,
+            "vkn": "VK_OEM_7"
+        },
+        {
+            "flags": [],
+            "sc": 14,
+            "vk": 8,
+            "vkn": "VK_BACK"
+        },
+        {
+            "flags": [],
+            "sc": 15,
+            "vk": 9,
+            "vkn": "VK_TAB"
+        },
+        {
+            "flags": [],
+            "sc": 16,
+            "vk": 81,
+            "vkn": "VK_Q"
+        },
+        {
+            "flags": [],
+            "sc": 17,
+            "vk": 87,
+            "vkn": "VK_W"
+        },
+        {
+            "flags": [],
+            "sc": 18,
+            "vk": 69,
+            "vkn": "VK_E"
+        },
+        {
+            "flags": [],
+            "sc": 19,
+            "vk": 82,
+            "vkn": "VK_R"
+        },
+        {
+            "flags": [],
+            "sc": 20,
+            "vk": 84,
+            "vkn": "VK_T"
+        },
+        {
+            "flags": [],
+            "sc": 21,
+            "vk": 89,
+            "vkn": "VK_Y"
+        },
+        {
+            "flags": [],
+            "sc": 22,
+            "vk": 85,
+            "vkn": "VK_U"
+        },
+        {
+            "flags": [],
+            "sc": 23,
+            "vk": 73,
+            "vkn": "VK_I"
+        },
+        {
+            "flags": [],
+            "sc": 24,
+            "vk": 79,
+            "vkn": "VK_O"
+        },
+        {
+            "flags": [],
+            "sc": 25,
+            "vk": 80,
+            "vkn": "VK_P"
+        },
+        {
+            "flags": [],
+            "sc": 26,
+            "vk": 192,
+            "vkn": "VK_OEM_3"
+        },
+        {
+            "flags": [],
+            "sc": 27,
+            "vk": 219,
+            "vkn": "VK_OEM_4"
+        },
+        {
+            "flags": [],
+            "sc": 28,
+            "vk": 13,
+            "vkn": "VK_RETURN"
+        },
+        {
+            "flags": [],
+            "sc": 29,
+            "vk": 162,
+            "vkn": "VK_LCONTROL"
+        },
+        {
+            "flags": [],
+            "sc": 30,
+            "vk": 65,
+            "vkn": "VK_A"
+        },
+        {
+            "flags": [],
+            "sc": 31,
+            "vk": 83,
+            "vkn": "VK_S"
+        },
+        {
+            "flags": [],
+            "sc": 32,
+            "vk": 68,
+            "vkn": "VK_D"
+        },
+        {
+            "flags": [],
+            "sc": 33,
+            "vk": 70,
+            "vkn": "VK_F"
+        },
+        {
+            "flags": [],
+            "sc": 34,
+            "vk": 71,
+            "vkn": "VK_G"
+        },
+        {
+            "flags": [],
+            "sc": 35,
+            "vk": 72,
+            "vkn": "VK_H"
+        },
+        {
+            "flags": [],
+            "sc": 36,
+            "vk": 74,
+            "vkn": "VK_J"
+        },
+        {
+            "flags": [],
+            "sc": 37,
+            "vk": 75,
+            "vkn": "VK_K"
+        },
+        {
+            "flags": [],
+            "sc": 38,
+            "vk": 76,
+            "vkn": "VK_L"
+        },
+        {
+            "flags": [],
+            "sc": 39,
+            "vk": 187,
+            "vkn": "VK_OEM_PLUS"
+        },
+        {
+            "flags": [],
+            "sc": 40,
+            "vk": 186,
+            "vkn": "VK_OEM_1"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL"
+            ],
+            "sc": 41,
+            "vk": 243,
+            "vkn": "VK_OEM_AUTO"
+        },
+        {
+            "flags": [],
+            "sc": 42,
+            "vk": 160,
+            "vkn": "VK_LSHIFT"
+        },
+        {
+            "flags": [],
+            "sc": 43,
+            "vk": 221,
+            "vkn": "VK_OEM_6"
+        },
+        {
+            "flags": [],
+            "sc": 44,
+            "vk": 90,
+            "vkn": "VK_Z"
+        },
+        {
+            "flags": [],
+            "sc": 45,
+            "vk": 88,
+            "vkn": "VK_X"
+        },
+        {
+            "flags": [],
+            "sc": 46,
+            "vk": 67,
+            "vkn": "VK_C"
+        },
+        {
+            "flags": [],
+            "sc": 47,
+            "vk": 86,
+            "vkn": "VK_V"
+        },
+        {
+            "flags": [],
+            "sc": 48,
+            "vk": 66,
+            "vkn": "VK_B"
+        },
+        {
+            "flags": [],
+            "sc": 49,
+            "vk": 78,
+            "vkn": "VK_N"
+        },
+        {
+            "flags": [],
+            "sc": 50,
+            "vk": 77,
+            "vkn": "VK_M"
+        },
+        {
+            "flags": [],
+            "sc": 51,
+            "vk": 188,
+            "vkn": "VK_OEM_COMMA"
+        },
+        {
+            "flags": [],
+            "sc": 52,
+            "vk": 190,
+            "vkn": "VK_OEM_PERIOD"
+        },
+        {
+            "flags": [],
+            "sc": 53,
+            "vk": 191,
+            "vkn": "VK_OEM_2"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 54,
+            "vk": 161,
+            "vkn": "VK_RSHIFT"
+        },
+        {
+            "flags": [],
+            "sc": 55,
+            "vk": 106,
+            "vkn": "VK_MULTIPLY"
+        },
+        {
+            "flags": [],
+            "sc": 56,
+            "vk": 164,
+            "vkn": "VK_LMENU"
+        },
+        {
+            "flags": [],
+            "sc": 57,
+            "vk": 32,
+            "vkn": "VK_SPACE"
+        },
+        {
+            "flags": [],
+            "sc": 58,
+            "vk": 20,
+            "vkn": "VK_CAPITAL"
+        },
+        {
+            "flags": [],
+            "sc": 59,
+            "vk": 112,
+            "vkn": "VK_F1"
+        },
+        {
+            "flags": [],
+            "sc": 60,
+            "vk": 113,
+            "vkn": "VK_F2"
+        },
+        {
+            "flags": [],
+            "sc": 61,
+            "vk": 114,
+            "vkn": "VK_F3"
+        },
+        {
+            "flags": [],
+            "sc": 62,
+            "vk": 115,
+            "vkn": "VK_F4"
+        },
+        {
+            "flags": [],
+            "sc": 63,
+            "vk": 116,
+            "vkn": "VK_F5"
+        },
+        {
+            "flags": [],
+            "sc": 64,
+            "vk": 117,
+            "vkn": "VK_F6"
+        },
+        {
+            "flags": [],
+            "sc": 65,
+            "vk": 118,
+            "vkn": "VK_F7"
+        },
+        {
+            "flags": [],
+            "sc": 66,
+            "vk": 119,
+            "vkn": "VK_F8"
+        },
+        {
+            "flags": [],
+            "sc": 67,
+            "vk": 120,
+            "vkn": "VK_F9"
+        },
+        {
+            "flags": [],
+            "sc": 68,
+            "vk": 121,
+            "vkn": "VK_F10"
+        },
+        {
+            "flags": [
+                "KBDEXT",
+                "KBDMULTIVK"
+            ],
+            "sc": 69,
+            "vk": 144,
+            "vkn": "VK_NUMLOCK"
+        },
+        {
+            "flags": [],
+            "sc": 70,
+            "vk": 145,
+            "vkn": "VK_SCROLL"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 71,
+            "vk": 36,
+            "vkn": "VK_HOME"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 72,
+            "vk": 38,
+            "vkn": "VK_UP"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 73,
+            "vk": 33,
+            "vkn": "VK_PRIOR"
+        },
+        {
+            "flags": [],
+            "sc": 74,
+            "vk": 109,
+            "vkn": "VK_SUBTRACT"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 75,
+            "vk": 37,
+            "vkn": "VK_LEFT"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 76,
+            "vk": 12,
+            "vkn": "VK_CLEAR"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 77,
+            "vk": 39,
+            "vkn": "VK_RIGHT"
+        },
+        {
+            "flags": [],
+            "sc": 78,
+            "vk": 107,
+            "vkn": "VK_ADD"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 79,
+            "vk": 35,
+            "vkn": "VK_END"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 80,
+            "vk": 40,
+            "vkn": "VK_DOWN"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 81,
+            "vk": 34,
+            "vkn": "VK_NEXT"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 82,
+            "vk": 45,
+            "vkn": "VK_INSERT"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL",
+                "KBDNUMPAD"
+            ],
+            "sc": 83,
+            "vk": 46,
+            "vkn": "VK_DELETE"
+        },
+        {
+            "flags": [],
+            "sc": 84,
+            "vk": 44,
+            "vkn": "VK_SNAPSHOT"
+        },
+        {
+            "flags": [],
+            "sc": 85,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 86,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 87,
+            "vk": 122,
+            "vkn": "VK_F11"
+        },
+        {
+            "flags": [],
+            "sc": 88,
+            "vk": 123,
+            "vkn": "VK_F12"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL"
+            ],
+            "sc": 89,
+            "vk": 146,
+            "vkn": "VK_OEM_NEC_EQUAL"
+        },
+        {
+            "flags": [],
+            "sc": 90,
+            "vk": 252,
+            "vkn": "VK_NONAME"
+        },
+        {
+            "flags": [],
+            "sc": 91,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 92,
+            "vk": 108,
+            "vkn": "VK_SEPARATOR"
+        },
+        {
+            "flags": [],
+            "sc": 93,
+            "vk": 124,
+            "vkn": "VK_F13"
+        },
+        {
+            "flags": [],
+            "sc": 94,
+            "vk": 125,
+            "vkn": "VK_F14"
+        },
+        {
+            "flags": [],
+            "sc": 95,
+            "vk": 126,
+            "vkn": "VK_F15"
+        },
+        {
+            "flags": [],
+            "sc": 96,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 97,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 98,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 99,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 100,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 101,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 102,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 103,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 104,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 105,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 106,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 107,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 108,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 109,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 110,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 111,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 112,
+            "vk": 21,
+            "vkn": "VK_HANGUL"
+        },
+        {
+            "flags": [],
+            "sc": 113,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 114,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 115,
+            "vk": 223,
+            "vkn": "VK_OEM_8"
+        },
+        {
+            "flags": [],
+            "sc": 116,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 117,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 118,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 119,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [],
+            "sc": 120,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL"
+            ],
+            "sc": 121,
+            "vk": 28,
+            "vkn": "VK_CONVERT"
+        },
+        {
+            "flags": [],
+            "sc": 122,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [
+                "KBDSPECIAL"
+            ],
+            "sc": 123,
+            "vk": 29,
+            "vkn": "VK_NONCONVERT"
+        },
+        {
+            "flags": [],
+            "sc": 124,
+            "vk": 9,
+            "vkn": "VK_TAB"
+        },
+        {
+            "flags": [],
+            "sc": 125,
+            "vk": 220,
+            "vkn": "VK_OEM_5"
+        },
+        {
+            "flags": [],
+            "sc": 126,
+            "vk": 194,
+            "vkn": "VK_ABNT_C2"
+        },
+        {
+            "flags": [],
+            "sc": 127,
+            "vk": 236,
+            "vkn": "VK_OEM_PA2"
+        }
+    ],
+    "vsc_to_vk_e0": [
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 28,
+            "vk": 13,
+            "vkn": "VK_RETURN"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 29,
+            "vk": 163,
+            "vkn": "VK_RCONTROL"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 53,
+            "vk": 111,
+            "vkn": "VK_DIVIDE"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 55,
+            "vk": 44,
+            "vkn": "VK_SNAPSHOT"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 56,
+            "vk": 255,
+            "vkn": "VK__none_"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 70,
+            "vk": 3,
+            "vkn": "VK_CANCEL"
+        },
+        {
+            "flags": [
+                "KBDEXT",
+                "KBDSPECIAL"
+            ],
+            "sc": 71,
+            "vk": 36,
+            "vkn": "VK_HOME"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 72,
+            "vk": 38,
+            "vkn": "VK_UP"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 73,
+            "vk": 33,
+            "vkn": "VK_PRIOR"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 75,
+            "vk": 37,
+            "vkn": "VK_LEFT"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 77,
+            "vk": 39,
+            "vkn": "VK_RIGHT"
+        },
+        {
+            "flags": [
+                "KBDEXT",
+                "KBDSPECIAL"
+            ],
+            "sc": 79,
+            "vk": 35,
+            "vkn": "VK_END"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 80,
+            "vk": 40,
+            "vkn": "VK_DOWN"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 81,
+            "vk": 34,
+            "vkn": "VK_NEXT"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 82,
+            "vk": 45,
+            "vkn": "VK_INSERT"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 83,
+            "vk": 46,
+            "vkn": "VK_DELETE"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 91,
+            "vk": 91,
+            "vkn": "VK_LWIN"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 92,
+            "vk": 92,
+            "vkn": "VK_RWIN"
+        },
+        {
+            "flags": [
+                "KBDEXT"
+            ],
+            "sc": 93,
+            "vk": 93,
+            "vkn": "VK_APPS"
+        },
+        {
+            "flags": [],
+            "sc": 29,
+            "vk": 19,
+            "vkn": "VK_PAUSE"
+        }
+    ],
+    "vsc_to_vk_e1": []
+}

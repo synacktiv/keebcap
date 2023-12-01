@@ -1,0 +1,10 @@
+{ "time": 0,  "klid": "0001045C", "keyup": 0, "sc": 16, "e0": 0, "e1": 0, "vk": 81, "vkn": "VK_Q" }
+{ "time": 10, "klid": "0001045C", "keyup": 1, "sc": 16, "e0": 0, "e1": 0, "vk": 81, "vkn": "VK_Q" }
+{ "time": 20, "klid": "0001045C", "keyup": 0, "sc": 24, "e0": 0, "e1": 0, "vk": 79, "vkn": "VK_O" }
+{ "time": 30, "klid": "0001045C", "keyup": 1, "sc": 24, "e0": 0, "e1": 0, "vk": 79, "vkn": "VK_O" }
+{ "time": 40, "klid": "0001045C", "keyup": 0, "sc": 32, "e0": 0, "e1": 0, "vk": 68, "vkn": "VK_D" }
+{ "time": 50, "klid": "0001045C", "keyup": 1, "sc": 32, "e0": 0, "e1": 0, "vk": 68, "vkn": "VK_D" }
+{ "time": 60, "klid": "0001045C", "keyup": 0, "sc": 38, "e0": 0, "e1": 0, "vk": 76, "vkn": "VK_L" }
+{ "time": 70, "klid": "0001045C", "keyup": 1, "sc": 38, "e0": 0, "e1": 0, "vk": 76, "vkn": "VK_L" }
+{ "time": 80, "klid": "0001045C", "keyup": 0, "sc": 57, "e0": 0, "e1": 0, "vk": 32, "vkn": "VK_SPACE" }
+{ "time": 90, "klid": "0001045C", "keyup": 1, "sc": 57, "e0": 0, "e1": 0, "vk": 32, "vkn": "VK_SPACE" }

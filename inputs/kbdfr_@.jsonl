@@ -1,0 +1,12 @@
+{ "time": 0,    "klid": "0000040C", "keyup": 0, "sc": 56, "e0": 1, "e1": 0, "vk": 165, "vkn": "VK_RMENU" }
+{ "time": 100,  "klid": "0000040C", "keyup": 0, "sc": 18, "e0": 0, "e1": 0, "vk": 69, "vkn": "VK_E" }
+{ "time": 200,  "klid": "0000040C", "keyup": 1, "sc": 18, "e0": 0, "e1": 0, "vk": 69, "vkn": "VK_E" }
+{ "time": 300,  "klid": "0000040C", "keyup": 1, "sc": 56, "e0": 1, "e1": 0, "vk": 165, "vkn": "VK_RMENU" }
+{ "time": 400,  "klid": "0000040C", "keyup": 0, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
+{ "time": 500,  "klid": "0000040C", "keyup": 1, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
+{ "time": 600,  "klid": "0000040C", "keyup": 0, "sc": 18, "e0": 0, "e1": 0, "vk": 69, "vkn": "VK_E" }
+{ "time": 700,  "klid": "0000040C", "keyup": 1, "sc": 18, "e0": 0, "e1": 0, "vk": 69, "vkn": "VK_E" }
+{ "time": 800,  "klid": "0000040C", "keyup": 0, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
+{ "time": 900,  "klid": "0000040C", "keyup": 1, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
+{ "time": 1000,  "klid": "0000040C", "keyup": 0, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
+{ "time": 1100,  "klid": "0000040C", "keyup": 1, "sc": 26, "e0": 0, "e1": 0, "vk": 221, "vkn": "VK_OEM_6" }
