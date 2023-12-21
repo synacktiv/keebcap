@@ -1,5 +1,5 @@
 # Keebcap
-This repository contains the code associated to this [article](https://www.synacktiv.com/publications/writing-a-decent-win32-keylogger) in which we talk about building a win32 keylogger that supports all languages not using input method editors.
+This repository contains the code associated to this [article](https://www.synacktiv.com/publications/writing-a-decent-win32-keylogger13) in which we talk about building a win32 keylogger that supports all languages not using input method editors.
 
 All tests were done on Windows 10 (22h2).
 
